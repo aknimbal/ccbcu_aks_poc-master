@@ -1,1 +1,1 @@
-# ccbcu_aks_poc-master
+# ccbcu_aks_poc
